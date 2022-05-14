@@ -1,11 +1,15 @@
 # Connect-4
-A Project made for educational purposes while studying in Athens University of Economics & Business.
-
-Video for this project: [here](https://www.youtube.com/watch?v=SxstLdf9LkE)
-
 Programming Language: Java
 
-The game known as Connect-4, Score-4, 4-in-a-line or 4-in-a-row. The AI uses the minimax algorithm, with alpha-beta pruning. A graphical interface is included. The user can click on the buttons or press the keys 1-7 to place a checker. To go back a move click on **Undo** option or press **Ctrl+Z**.
+Connect-4, to win score-4, 4-in-a-line or 4-in-a-row. 
+The AI uses the minimax algorithm, with alpha-beta pruning.
+A graphical interface is included.
+
+HOW TO PLAY
+
+The user can click on the buttons or press the keys 1-7 to place a checker. 
+
+To go back a move click on **Undo** option or press **Ctrl+Z**.
 
 HOT TO RUN IN ECLIPSE:
 
